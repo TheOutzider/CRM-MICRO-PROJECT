@@ -33,7 +33,9 @@ yarn-error.log*
 /node_modules
 npm-debug.log
 yarn-error.log
-
+/backend/node_modules
+/backend/images
+/backend.env
 # IDEs and editors
 .idea/
 .project
